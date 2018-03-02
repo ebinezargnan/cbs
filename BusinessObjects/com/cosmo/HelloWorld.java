@@ -5,6 +5,6 @@ public class HelloWorld{
 
   System.out.println("Welcome");
   List<String> newList=new ArrayList<String>();
-  
+   System.out.println("Thanks for visiting");
 }
 }
